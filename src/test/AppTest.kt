@@ -1,3 +1,5 @@
+package com.kotlindump.libp2p.test
+
 import org.junit.Test
 import org.junit.Assert.assertTrue
 
